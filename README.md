@@ -1,5 +1,5 @@
 # Calculadora De Porcentagem
-## Projeto simples de uma calculadora de porcentagem, pensado originalmente para desafiar meus próprios conhecimetos básicos sobre manipulação do DOM.
+## Projeto simples de uma calculadora de porcentagem.
 ### Link do GitHub Pages: ( https://fernando-bento.github.io/Calculadora-De-Porcentagem/ )
 
 O site faz toda a matemágica por você! Com apenas um clique, você facilmente pode calcular percentuais para 
