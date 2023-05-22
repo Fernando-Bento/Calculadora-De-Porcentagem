@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Porcentagem</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <main>
+        <section>
+
+                <div id="dados">
+
+                    <label for="porc">Calcule</label>
+    
+                    <input type="number" name="porc" id="porc" required>
+    
+                    <span> %</span>
+    
+                    <label for="num">de </label>
+                    
+                    <input type="number" name="num" id="num" min="0" required>
+    
+                    <button id="cal" onclick="calcularPorcentagem()">Calcular</button>
+
+                </div>
+
+                <div>
+                    <p id="resultado">Esperando dados...</p>
+                </div>
+            
+        </section>
+    </main>
+
+    <script src="Calculo.js"></script>
+</body>
+</html>
